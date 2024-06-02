@@ -7,8 +7,8 @@ const About = () => {
     <div className="about-container">
       <div className="about-text">
         <p>
-          Liza is a stylist and creative consultant with vast experience in the
-          fashion industry spanning over the past decade.
+          El Messeg is a stylist and creative consultant with vast experience in
+          the fashion industry spanning over the past decade.
         </p>
         <p>
           As an early adapter of social media, Liza has throughout the years
